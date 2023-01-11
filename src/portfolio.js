@@ -7,7 +7,7 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Helyson Santiago',
   role: 'Full Stack Developer',
-  description: 'I live in São Paulo/SP-ZS, I am a computer engineering student, I usually build frontend with React and build backend specially using NestJS, NodeJS & Express.  ',
+  description: 'I live in São Paulo/SP-ZS, I am a computer engineering student, I usually build frontend with ReactJS and build backend specially using NestJS, NodeJS & Express.  ',
   social: {
     github: 'https://github.com/helysonsantiago',
   },
@@ -25,12 +25,12 @@ const projects = [
     livePreview: 'https://mini-blog-green.vercel.app/',
   },
   {
-    name: 'Project 2',
+    name: 'Converter Python/C',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['React', 'React', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'This converter was made with python and C, for the two to talk it is necessary a DLL that mediates between the two technologies.',
+    stack: ['Python', 'C'],
+    sourceCode: 'https://github.com/helysonsantiago/conversor',
+    livePreview: '/#',
   },
   {
     name: 'Project 3',
