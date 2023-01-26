@@ -35,7 +35,7 @@ const projects = [
   {
     name: 'TASKS - API WiTH NESTJS',
     description:
-      'This is a project that performs CRUD operations, user authentication by Admin/User type, data encryption and token authentication,',
+      'This is a project that performs CRUD operations, user authentication by Admin/User type, data encryption and token authentication.',
     stack: ['NestJS', 'Typescript'],
     sourceCode: 'https://github.com/helysonsantiago/API-NESTJS',
     livePreview: '/#',
