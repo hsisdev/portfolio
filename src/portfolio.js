@@ -33,12 +33,12 @@ const projects = [
     livePreview: '/#',
   },
   {
-    name: 'Project 3',
+    name: 'TASKS - API WiTH NESTJS',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['React', 'React', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'This is a project that performs CRUD operations, user authentication by Admin/User type, data encryption and token authentication,',
+    stack: ['NestJS', 'Typescript'],
+    sourceCode: 'https://github.com/helysonsantiago/API-NESTJS',
+    livePreview: '/#',
   },
   
 ]
